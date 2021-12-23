@@ -4,4 +4,4 @@ Aoife Conleavy is a novelist who has been writing about her travels for nearly t
 
 Using my understanding of typography, I helped Aoife Conleavy improve the readability of her site for her readers.
 
-Find a copy of the site live here => 
+Find a copy of the site live here => https://realgordon.github.io/typography/
